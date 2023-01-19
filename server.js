@@ -2,7 +2,7 @@
 const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 const data = require("./src/data/sampleData.json");
-const { products } = require("./src/model/products");
+const { products } = require("./src/models/products");
 
 const app = express();
 dotenv.config();
@@ -27,3 +27,4 @@ app.use("/products", require("./src/routes/productsRoutes"));
 app.use("/reports", require("./src/routes/reportRoutes"));
 
 main();
+app.listen(PORT, () => console.log(`Server is running on port ${PORT}`));

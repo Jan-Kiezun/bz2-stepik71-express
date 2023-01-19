@@ -6,3 +6,5 @@ router.get("/", async (req, res) => {
   const report = await getReport();
   res.send(report);
 });
+
+module.exports = router;
