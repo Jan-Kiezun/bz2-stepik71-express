@@ -1,0 +1,93 @@
+﻿[
+  {
+      "name": "Apple",
+      "price": 0.99,
+      "description": "A delicious red apple.",
+      "amount": 1,
+      "unit_of_measurement": "each"
+  },
+  {
+      "name": "Banana",
+      "price": 0.59,
+      "description": "A ripe yellow banana.",
+      "amount": 1,
+      "unit_of_measurement": "each"
+  },
+  {
+      "name": "Orange",
+      "price": 0.89,
+      "description": "A juicy orange.",
+      "amount": 1,
+      "unit_of_measurement": "each"
+  },
+  {
+      "name": "Lemon",
+      "price": 0.69,
+      "description": "A sour lemon.",
+      "amount": 1,
+      "unit_of_measurement": "each"
+  },
+  {
+      "name": "Strawberries",
+      "price": 2.99,
+      "description": "A pint of fresh strawberries.",
+      "amount": 1,
+      "unit_of_measurement": "pint"
+  },
+  {
+      "name": "Blueberries",
+      "price": 3.99,
+      "description": "A pint of fresh blueberries.",
+      "amount": 1,
+      "unit_of_measurement": "pint"
+  },
+  {
+      "name": "Raspberries",
+      "price": 3.49,
+      "description": "A pint of fresh raspberries.",
+      "amount": 1,
+      "unit_of_measurement": "pint"
+  },
+  {
+      "name": "Blackberries",
+      "price": 3.79,
+      "description": "A pint of fresh blackberries.",
+      "amount": 1,
+      "unit_of_measurement": "pint"
+  },
+  {
+      "name": "Cherries",
+      "price": 4.99,
+      "description": "A pint of fresh cherries.",
+      "amount": 1,
+      "unit_of_measurement": "pint"
+  },
+  {
+      "name": "Watermelon",
+      "price": 7.99,
+      "description": "A large slice of watermelon.",
+      "amount": 1,
+      "unit_of_measurement": "slice"
+  },
+  {
+      "name": "Cantaloupe",
+      "price": 4.99,
+      "description": "A large slice of cantaloupe.",
+      "amount": 1,
+      "unit_of_measurement": "slice"
+  },
+  {
+      "name": "Honeydew Melon",
+      "price": 5.99,
+      "description": "A large slice of honeydew melon.",
+      "amount": 1,
+      "unit_of_measurement": "slice"
+  },
+  {
+      "name": "Mango",
+      "price": 2.99,
+      "description": "A ripe mango.",
+      "amount": 1,
+      "unit_of_measurement": "slice"
+  }
+]
