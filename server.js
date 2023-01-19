@@ -24,5 +24,6 @@ async function main() {
 }
 
 app.use("/products", require("./src/routes/productsRoutes"));
+app.use("/reports", require("./src/routes/reportRoutes"));
 
 main();
